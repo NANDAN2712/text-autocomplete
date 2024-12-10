@@ -35,7 +35,8 @@ const data = ["Apple", "Banana", "Orange", "Mango", "Grapes", "Pineapple", "Stra
   "early", "late", "soon", "now", "then", "here", "there", "everywhere",
   "and", "or", "but", "so", "because", "although", "while", "if", "unless", 
   "since", "after", "before", "when", "whenever", "until", "where", "wherever", 
-  "whether", "however", "therefore", "though", "as", "though", "even though","hello","akshat","arush","soham24","yawaz azad sir","taqwuee sir"
+  "whether", "however", "therefore", "though", "as", "though", "even though","hello","akshat","arush","soham24","yawaz azad sir","taqwuee sir",
+              "gunveer GS"
 
 ];
 
